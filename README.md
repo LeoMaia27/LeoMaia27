@@ -4,7 +4,7 @@
 - 😄 Ele/Dele
 ##
 
-<p><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardomaia&show_icons=true&locale=pt-br&theme=dracula" alt="leomaia27" /></p>
+<p><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardomaia&show_icons=true&locale=pt-br&theme=dracula" alt="leomaia27" /></p>
 
 <p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=leomaia27&show_icons=true&locale=pt-br&theme=dracula" alt="leomaia27" /></p>
 

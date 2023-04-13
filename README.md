@@ -15,4 +15,4 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LeoMaia27&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMaia27&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&height=300)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMaia27&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

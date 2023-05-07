@@ -14,6 +14,10 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ## 📊 GitHub Stats:
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoMaia27&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMaia27&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+  <a href="https://github.com/LeoMaia27">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeoMaia27&show_icons=true&theme=dracula"alt="githubstats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMaia27&theme=dracula&layout=compact" alt="langstats"/>
+</div>

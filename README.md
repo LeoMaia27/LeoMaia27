@@ -1,5 +1,5 @@
 # Olá! Eu sou o Leonardo!
-- 🌱 Estou estudando HTML5, CSS3 e JavaScript.
+- 🌱 Estou estudando JavaScript.
 - 📫 Contate-me em: leonardoam2702@gmail.com
 - 😄 Ele/Dele
 

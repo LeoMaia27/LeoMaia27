@@ -19,6 +19,5 @@
 <div align="center">
   
   <a href="https://github.com/LeoMaia27">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeoMaia27&show_icons=true&theme=algolia&border_radius=15" alt="githubstats"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMaia27&theme=algolia&border_radius=15&layout=compact" alt="langstats"/>
 </div>
